@@ -1,10 +1,9 @@
-Sou estudante de Inteligência Artificial (graduação tecnológica) com foco em aplicações práticas de tecnologia. Tenho experiência em projetos de front-end, automação e uso de tecnologia para resolução de problemas reais.
+I am an Artificial Intelligence undergraduate student (technological degree) focused on practical applications of technology. I have experience in front-end projects, automation, and using technology to solve real-world problems.
 
-Atuo em projetos colaborativos, ambientes educacionais e iniciativas de tecnologia social, com interesse em IA aplicada, sistemas digitais, design funcional e aprendizado contínuo.
+I work on collaborative projects, educational environments, and social technology initiatives, with interests in applied AI, web development, digital systems, and continuous learning. Currently, I develop academic and practical projects with attention to technical quality, code organization, and documentation.
 
-Atualmente desenvolvo projetos acadêmicos e práticos, buscando consolidar uma base sólida em Inteligência Artificial e desenvolvimento web, com atenção à qualidade técnica, organização de código e documentação.
+Areas of interest:
+Applied Artificial Intelligence · Web Development (Front-end) · Automation and Digital Systems · Educational and Social Technology
 
-Áreas de interesse: Inteligência Artificial aplicada; Desenvolvimento web (front-end); Automação e sistemas digitais; Tecnologia educacional e social.
-
-Localização: Brasil
-Idiomas: Português (nativo), Inglês (leitura técnica)
+Location: Brazil
+Languages: Portuguese (native), English (technical reading)
