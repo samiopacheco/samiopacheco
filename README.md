@@ -4,15 +4,7 @@ Atuo em projetos colaborativos, ambientes educacionais e iniciativas de tecnolog
 
 Atualmente desenvolvo projetos acadêmicos e práticos, buscando consolidar uma base sólida em Inteligência Artificial e desenvolvimento web, com atenção à qualidade técnica, organização de código e documentação.
 
-Projetos em destaque:
-– Site “Lendas Urbanas Brasileiras” (HTML/CSS), desenvolvido em equipe remota nacional
-– Projetos acadêmicos e experimentais em tecnologia e IA aplicada
-
-Áreas de interesse:
-– Inteligência Artificial aplicada
-– Desenvolvimento web (front-end)
-– Automação e sistemas digitais
-– Tecnologia educacional e social
+Áreas de interesse: Inteligência Artificial aplicada; Desenvolvimento web (front-end); Automação e sistemas digitais; Tecnologia educacional e social.
 
 Localização: Brasil
 Idiomas: Português (nativo), Inglês (leitura técnica)
