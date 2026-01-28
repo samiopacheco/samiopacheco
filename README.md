@@ -5,5 +5,4 @@ I work on collaborative projects, educational environments, and social technolog
 Areas of interest:
 Applied Artificial Intelligence · Web Development (Front-end) · Automation and Digital Systems · Educational and Social Technology
 
-Location: Brazil
-Languages: Portuguese (native), English (technical reading)
+Location: Brazil / Languages: Portuguese (native), English (technical reading)
