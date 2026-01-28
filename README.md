@@ -1,4 +1,4 @@
-Sou estudante de Inteligência Artificial (graduação tecnológica) com foco em aplicações práticas de tecnologia. Tenho experiência em projetos de front-end (HTML e CSS), automação e uso de tecnologia para resolução de problemas reais.
+Sou estudante de Inteligência Artificial (graduação tecnológica) com foco em aplicações práticas de tecnologia. Tenho experiência em projetos de front-end, automação e uso de tecnologia para resolução de problemas reais.
 
 Atuo em projetos colaborativos, ambientes educacionais e iniciativas de tecnologia social, com interesse em IA aplicada, sistemas digitais, design funcional e aprendizado contínuo.
 
